@@ -1,4 +1,13 @@
-### Hi there 👋
+# 📈 Statistics 📈
+<p align="center">
+  <a href="https://github.com/mrylund">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrylund&count_private=true&show_icons=true&theme=github_dark&hide_title=true&card_width=420&hide_border=true" width="49.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrylund&theme=github-dark-blue&hide_border=true" width="49.5%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=mrylund&theme=react-dark&hide_border=true" />
+</a>
+</p>
+
+
 
 <!--
 **mrylund/mrylund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
